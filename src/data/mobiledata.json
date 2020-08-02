@@ -1,0 +1,41 @@
+
+{
+    "mobiles":[
+        {
+            "mobile":{
+                "inthebox" :"Handset (Non-removable Battery Included), Travel Adapter, USB Cable, User Manual",
+                "modelnumber" :"SM-A315FZB1INS/SM-A315FZBWINS",
+                "modelname" :"Galaxy A31",
+                "color" :"Prism Crush Blue",
+                "displaysize" :"16.26 cm (6.4 inch)",
+                "internalstorage":"128 GB",
+                "ram" :"6 GB",
+                "image" : "https://rukminim1.flixcart.com/image/416/416/kamtsi80/mobile/z/c/w/samsung-galaxy-a31-sm-a315fzbwins-original-imafs5p5kwscdurq.jpeg?q=70"            }
+           
+        },
+        {
+            "mobile":{
+                "inthebox" :"Handset, Mobile Cover, Data Cable, Adapter, Manual, SIM Card Ejector",
+                "modelnumber" :"MZB9072IN/MZB07R7IN/MZB8254IN",
+                "modelname" :"Redmi 8",
+                "color" :"Onyx Black",
+                "displaysize":"15.8 cm (6.22 inch)",
+                "internalstorage":"128 GB",
+                "ram" :"6 GB",
+                "image" : "https://rukminim1.flixcart.com/image/416/416/k1fbmvk0/mobile/k/b/e/mi-redmi-8-mzb8250in-original-imafhyabpggagngr.jpeg?q=70"
+            }
+        },
+        {
+            "mobile":{
+                "inthebox" :"Handset, EarPods with Lightning Connector, Lightning to USB Cable, USB Power Adapter, DocumentationHandset (Non-removable Battery Included), Travel Adapter, USB Cable, User Manual",
+                "modelnumber" :"MRY42HN/ASM-A315FZB1INS/SM-A315FZBWINS",
+                "modelname" :"iPhone XR",
+                "color" :"Prism Crush Blue",
+                "displaysize" :"15.49 cm (6.1 inch)",
+                "internalstorage":"128 GB",
+                "ram" :"6 GB",
+                "image" : "https://rukminim1.flixcart.com/image/416/416/jnj7iq80/mobile/u/b/g/apple-iphone-xr-mryj2hn-a-original-imafa6zkm7qhv2zd.jpeg?q=70"
+            }
+        }
+    ]
+}

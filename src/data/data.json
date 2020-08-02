@@ -1,0 +1,22 @@
+{
+    "profile":[
+        {
+            "details":{
+                 "name":"Nandu",
+                 "role":"MERN Developer",
+                 "mobile":"0123456789",
+                 "email":"nandinich1999@gmail.com"
+            },
+            "co": "MERN Developer"
+        },
+        {
+            "details":{
+                "name":"Nch",
+                "role":"FrontEnd Developer",
+                "mobile":"0123456789",
+                "email":"nandinich1999@gmail.com"
+            },
+            "co":"I am a FrontEnd Developer"
+        }
+    ]
+}
